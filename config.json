@@ -1,0 +1,6 @@
+{
+    "pathToCreateWorkSpace": "D:/workSpaceSetupTest",
+    "checkNpm": "DYforms",
+    "gitURL": "~git url",
+    "NodeModulePath": "cd ./DYforms"
+}
